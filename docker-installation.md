@@ -15,4 +15,4 @@
 
 - Add yourUser to the docker group 
   sudo usermod -aG docker yourUser
-DONE
+# DONE
