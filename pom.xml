@@ -24,11 +24,11 @@
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://localhost:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
-		<sonar.password>drama20</sonar.password>
+		<sonar.password>Bakayoko@83</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<sonar.projectKey>sqa_4151457438b5507cdf0d2f7e82312e665a811954</sonar.projectKey>
-		<sonar.projectName>jenkins-app-v1.0.0</sonar.projectName>
+		<sonar.projectKey>squ_d2c846e88edd713ce4189cb30bd728e44e829d62</sonar.projectKey>
+		<sonar.projectName>jenkins-java-app</sonar.projectName>
         
 	</properties>
 
